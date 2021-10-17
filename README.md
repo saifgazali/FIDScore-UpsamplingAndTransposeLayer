@@ -1,0 +1,1 @@
+# FIDScore-UpsamplingAndTransposeLayer
